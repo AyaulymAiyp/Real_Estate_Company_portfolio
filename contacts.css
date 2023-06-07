@@ -1,0 +1,27 @@
+#navbar li{
+    text-transform: uppercase;
+    margin: 19px 34px;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+*::-webkit-scrollbar {
+    display: none;
+  }
+
+.info{
+    text-align: center;
+    margin-left: 1%;
+    position: absolute;
+    left: 28%;
+    transform: translateX(-72%);
+    top: 40%;
+    transform: translateY(-60%);
+    align-content: center;
+}
+
+.info h6{
+    width: 100%;
+}
+

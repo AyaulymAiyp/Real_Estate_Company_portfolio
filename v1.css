@@ -1,0 +1,40 @@
+#navbar li{
+    text-transform: uppercase;
+    margin: 19px 34px;
+    font-weight: bold;
+}
+nav{
+    background-color: white;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+*::-webkit-scrollbar {
+    display: none;
+  }
+  img{
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  main{
+    margin: 120px 10px 10px;
+    display: block;
+    max-width: fit-content;
+    text-align: center;
+  }
+  p{
+    padding: 3% 25%;
+  }
+  form{
+    display: grid;
+    justify-content: center;
+    grid-template-rows: auto auto auto;
+    align-items: center;
+  }
+  form input{
+    margin-bottom: 10%; 
+    width: 300px; 
+    padding: 10px;
+  }

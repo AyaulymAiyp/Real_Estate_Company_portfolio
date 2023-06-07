@@ -1,0 +1,28 @@
+#navbar li{
+    text-transform: uppercase;
+    margin: 19px 34px;
+    font-weight: bold;
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+*::-webkit-scrollbar {
+    display: none;
+  }
+  .carousel-inner img{
+    width:100vw; 
+    height: 100vh; 
+    filter: brightness(80%);
+    background-size: cover;
+    object-fit: cover;
+ }
+.container-fluid{
+    margin: 0;
+    padding: 0;
+
+ }
+ 
+
+ 
